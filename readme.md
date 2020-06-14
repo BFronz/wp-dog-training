@@ -7,3 +7,4 @@ WordPress professioan dog traing site. Includes home page blog, contact page, ab
 ## Built With
 * WordPress 
 * WordPress Theme: Rocked
+* Plugins: Classic Editor, Contact Form 7
