@@ -1,7 +1,6 @@
 ## Tom's Dog Training
 
-WordPress professioan dog traing site. Includes blog, contact page, about page and samples page.
-
+WordPress professioan dog traing site. Includes home page blog, contact page, about page and samples page. 
 
 
 
